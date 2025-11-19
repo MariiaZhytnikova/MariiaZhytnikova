@@ -40,5 +40,6 @@ AI fundamentals • Backend development • Frontend development
 ---
 
 ### 🤝 Feel free to contact me  
-📧 Email: *your-email*  
-🔗 LinkedIn: *your-link*  
+📧 Email: allusio@gmail.com
+
+🔗 LinkedIn: [linkedin.com/in/mariia-zhytnikova](https://linkedin.com/in/mariia-zhytnikova)
