@@ -1,51 +1,44 @@
-# Mariia Zhytnikova
 
-This repository contains the latest version of my CV and a short overview of my background and technical skills.
+**Software Developer | C/C++ | Python | Exploring AI & modern development tools**
 
-## About Me
-Career-changing software developer transitioning from a scientific background into software engineering.  
-Experience in low-level programming (C/C++), Linux environments, and clean, maintainable code practices.  
-Motivated by problem-solving, continuous learning, and applying analytical thinking to real development challenges.
+Career-changing developer with a strong scientific background, trained at **School 42 / Hive Helsinki**.  
+Focused on low-level programming, Linux environments, problem-solving, and building clean, reliable software.
 
-## Learning at Helsinki Hive / 42 Network
-Intensive project-based training focused on:
-- Low-level programming in C and C++
-- Algorithms, data structures, and complexity awareness
-- Memory management and debugging (gdb, valgrind)
-- Unix/Linux programming and shell scripting
-- Writing Makefiles and managing build processes
-- Version control and collaboration using Git
-- Docker and service orchestration (Inception project)
-- Web technologies, networking basics, HTTP server development
-- Graphics and game mechanics (2D & 3D MLX projects)
-- Peer-to-peer learning, code reviews, teamwork
+---
 
-## Key Technical Skills
-**Languages:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+### 🔧 Tech Stack
+
+**Languages**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
+</p>
 
 
-**Tools & Technologies:**  
-Linux/Unix, Git/GitHub, Docker, Docker Compose, Nginx, MariaDB, Makefile, HTML5 Canvas, MLX42
 
-**Core Competencies:**  
-Algorithmic thinking, problem-solving, memory-safe programming, debugging, OOP (C++), containerization, basic networking, clean code principles
+**Tools & Technologies**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+</p>
 
-## Projects (Selected)
-- **Minishell:** Custom Unix shell in C (pipes, redirects, signals)
-- **Webserver:** Basic HTTP server in C++
-- **Inception:** Containerized infrastructure (Docker, Nginx, MariaDB)
-- **2D & 3D Games:** MLX/graphics rendering, raycasting engine
-- **Hive Game (Web):** TypeScript + Canvas implementation
-- **AirGuardian:** Python/JS tool for drone zone intrusion visualization
+**Currently exploring**  
+AI fundamentals • Backend development • Frontend development
 
-## Contact
-- LinkedIn: *add your link here*  
-- GitHub: https://github.com/MariiaZhytnikova
+---
 
-The CV file in this repository is always kept up to date.
+### 🎓 Alma Mater  
+**Hive Helsinki (School 42 Network)**
+
+---
+
+### 🤝 Feel free to contact me  
+📧 Email: *your-email*  
+🔗 LinkedIn: *your-link*  
