@@ -1,4 +1,4 @@
-# CV – Mariia Zhytnikova
+# Mariia Zhytnikova
 
 This repository contains the latest version of my CV and a short overview of my background and technical skills.
 
