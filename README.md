@@ -22,7 +22,13 @@ Intensive project-based training focused on:
 
 ## Key Technical Skills
 **Languages:**  
-C, C++, Python, JavaScript, TypeScript, Shell scripting
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+
 
 **Tools & Technologies:**  
 Linux/Unix, Git/GitHub, Docker, Docker Compose, Nginx, MariaDB, Makefile, HTML5 Canvas, MLX42
