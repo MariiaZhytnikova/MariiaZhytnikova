@@ -1,13 +1,45 @@
-# 👋 Hi, I'm Mariia (mzitnik)
+# CV – Mariia Zhytnikova
 
-I'm a former biophysicist and science consultant with a passion for technology and coding. With a background in biophysics, I’m excited about exploring the intersections of science, data, and software. Now, I'm building my coding skills and exploring the tech world.
+This repository contains the latest version of my CV and a short overview of my background and technical skills.
 
-## 🌱 Currently Learning
-- Full Stack Development
-- Data Science and Machine Learning
+## About Me
+Career-changing software developer transitioning from a scientific background into software engineering.  
+Experience in low-level programming (C/C++), Linux environments, and clean, maintainable code practices.  
+Motivated by problem-solving, continuous learning, and applying analytical thinking to real development challenges.
 
-## 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
+## Learning at Helsinki Hive / 42 Network
+Intensive project-based training focused on:
+- Low-level programming in C and C++
+- Algorithms, data structures, and complexity awareness
+- Memory management and debugging (gdb, valgrind)
+- Unix/Linux programming and shell scripting
+- Writing Makefiles and managing build processes
+- Version control and collaboration using Git
+- Docker and service orchestration (Inception project)
+- Web technologies, networking basics, HTTP server development
+- Graphics and game mechanics (2D & 3D MLX projects)
+- Peer-to-peer learning, code reviews, teamwork
 
+## Key Technical Skills
+**Languages:**  
+C, C++, Python, JavaScript, TypeScript, Shell scripting
 
+**Tools & Technologies:**  
+Linux/Unix, Git/GitHub, Docker, Docker Compose, Nginx, MariaDB, Makefile, HTML5 Canvas, MLX42
+
+**Core Competencies:**  
+Algorithmic thinking, problem-solving, memory-safe programming, debugging, OOP (C++), containerization, basic networking, clean code principles
+
+## Projects (Selected)
+- **Minishell:** Custom Unix shell in C (pipes, redirects, signals)
+- **Webserver:** Basic HTTP server in C++
+- **Inception:** Containerized infrastructure (Docker, Nginx, MariaDB)
+- **2D & 3D Games:** MLX/graphics rendering, raycasting engine
+- **Hive Game (Web):** TypeScript + Canvas implementation
+- **AirGuardian:** Python/JS tool for drone zone intrusion visualization
+
+## Contact
+- LinkedIn: *add your link here*  
+- GitHub: https://github.com/MariiaZhytnikova
+
+The CV file in this repository is always kept up to date.
