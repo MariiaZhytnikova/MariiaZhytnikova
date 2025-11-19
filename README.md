@@ -10,4 +10,4 @@ I'm a former biophysicist and science consultant with a passion for technology a
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
 
-😇
+
