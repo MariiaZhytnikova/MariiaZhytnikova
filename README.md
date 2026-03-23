@@ -4,6 +4,8 @@
 Career-changing developer with a strong scientific background, trained at **School 42 / Hive Helsinki**.  
 Focused on low-level programming, Linux environments, problem-solving, and building clean, reliable software.
 
+https://mariiazhytnikova.github.io/portfolio/
+
 ---
 
 ### 🔧 Tech Stack
